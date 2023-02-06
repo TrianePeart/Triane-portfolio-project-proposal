@@ -28,4 +28,34 @@ _For example: a user may have id, name, email, phone_
 
 Your proposal is to be submitted AFTER the Portfolio Project Requirements and Repo have been shared with you in class. 
 
+## Proposal:
+I am creating a writing app where people can post their writing. 
+
+**USER STORIES**
+
+1. As a User, I will be greeted by a log-in modal on the landing page that asks for email, password or signup. 
+
+> If user does not have an account they will be redirected to sign up giving their username, email, and password. If they do have an account they will be navigated to the home page. 
+
+2. As a User, I will see several useful articles on display as well as a button that navigates the user to a create page or (write section) where they can create, post, edit and delete articles. 
+
+3. As a User, I will be able to click and read the articles available. 
+
+4. As a User, I can utilize the search bar on the home page to find as well as filter articles by topics.
+
+**Stretch features**
+
+1. As a User, when navigated to the create page, I will be taken to a form that counts words entered as well as suggests synonyms from a dictionary API while writing
+
+1. As a user, I will be able to log in to my account which allows me to edit and delete only my work. 
+
+1. As a user, I can bookmark works that I enjoy. 
+
+1. As a user, I will be navigated to a TOS upon signup that suggests against copy infringement and protects admin from legal. 
+
+1. As a user pronouns will be available on profile. 
+
+1. As a user, I will see a comment, like, and view feature.
+
+
 Please submit your proposal in a **group message with JD && Carlos** via Slack.
